@@ -1,2 +1,2 @@
 # Thetestproject
-This is to test the githubs
+This is to test the github things.
